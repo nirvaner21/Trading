@@ -1,5 +1,5 @@
 ⚡ *RADAR DE CATALISADORES E CONTRATOS* ⚡
 
-📌 *BA* (17:47 - Yahoo)
-📰 *Update: Equities Advance Intraday as Investors Assess Corporate Earnings*
-🔗 [Ver Notícia](https://finnhub.io/api/news?id=1e1ecd95ad28533c168fefcc5ed2d8c308b5b19b4de2129e9e3f12dfa6d5f322)
+📌 *AMAT* (15:54 - Yahoo)
+📰 *Cintas Corporation (CTAS) Gains 15% as Record Q4 Margins Fuel Guidance Increase*
+🔗 [Ver Notícia](https://finnhub.io/api/news?id=2761bae9f5f90b321a8c508d20871b3ddfdbac83c53c490eb25cd8626a5751f0)
