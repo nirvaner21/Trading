@@ -1,5 +1,5 @@
 ⚡ *RADAR DE CATALISADORES E CONTRATOS* ⚡
 
-📌 *QUBT* (13:36 - ChartMill)
-📰 *Quantum Stocks Face Earnings Reality Check After Selloff Exposes Profitability Divide*
-🔗 [Ver Notícia](https://finnhub.io/api/news?id=13115f0ccea78f020ddbdbbab2301237ae094356c0e31cef29b2bdfa812386fd)
+📌 *BA* (13:46 - Yahoo)
+📰 *Boeing Stock Rises on New 767 Jet Deal*
+🔗 [Ver Notícia](https://finnhub.io/api/news?id=c30a2b6c09dfd65c0885d0442840a4b3cc0f08a6d647192868664cfb677e9c12)
