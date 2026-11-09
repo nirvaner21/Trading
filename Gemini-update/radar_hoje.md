@@ -1,9 +1,10 @@
-📊 *Briefing Pré-Mercado EUA* (06/11/2026)
+📊 *Briefing Pré-Mercado EUA* (09/11/2026)
 
-📈 *VIX Atual:* 27.14 — 🔴 Alta Volatilidade (Foco em Reversão / Reduzir Lote)
+📈 *VIX Atual:* 23.28 — 🟡 Alerta Moderado (Cautela nos Breakouts)
 
 📋 *Watchlist Ativa:* 22 ativos monitorizados
 
 ⚠️ *ATENÇÃO — Earnings nos próximos 10 dias:*
-• *QUBT*: 2026-11-09 (Após o Fecho (AMC)) | EPS Est: $-0.049
 • *AMAT*: 2026-11-12 (Após o Fecho (AMC)) | EPS Est: $4.1345
+• *HD*: 2026-11-17 (Hora a definir) | EPS Est: $3.9538
+• *NVDA*: 2026-11-17 (Após o Fecho (AMC)) | EPS Est: $2.5263
