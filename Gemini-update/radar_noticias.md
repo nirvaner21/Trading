@@ -1,5 +1,5 @@
 ⚡ *RADAR DE CATALISADORES E CONTRATOS* ⚡
 
-📌 *BA* (13:46 - Yahoo)
-📰 *Boeing Stock Rises on New 767 Jet Deal*
-🔗 [Ver Notícia](https://finnhub.io/api/news?id=c30a2b6c09dfd65c0885d0442840a4b3cc0f08a6d647192868664cfb677e9c12)
+📌 *AMAT* (12:53 - Yahoo)
+📰 *US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week*
+🔗 [Ver Notícia](https://finnhub.io/api/news?id=1b72a9bb0f7531abae64ca168a6af8716d1e59f9616ef43882a38b00b1fe348f)
