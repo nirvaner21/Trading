@@ -1,8 +1,9 @@
 🎯 *Scanner Técnico Swing Trade (14h00)*
 
 🟢 *Em Tendência de Alta (Preço > 50 > 200 | RSI 45-65):*
-• *AAPL*: $348.14 | RSI: 55.3 | Vol: 0.33x
-• *MSFT*: $533.98 | RSI: 52.6 | Vol: 0.58x
-• *AMZN*: $269.74 | RSI: 60.9 | Vol: 0.44x
-• *JPM*: $342.64 | RSI: 53.1 | Vol: 0.32x
+• *AAPL*: $354.96 | RSI: 60.0 | Vol: 0.37x
+• *MSFT*: $521.30 | RSI: 47.7 | Vol: 0.65x
+• *AMZN*: $266.58 | RSI: 57.7 | Vol: 0.47x
+• *JPM*: $344.23 | RSI: 54.4 | Vol: 0.24x
+• *PG*: $167.31 | RSI: 64.4 | Vol: 0.31x
 
