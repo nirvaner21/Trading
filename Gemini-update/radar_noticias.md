@@ -1,5 +1,5 @@
 ⚡ *RADAR DE CATALISADORES E CONTRATOS* ⚡
 
-📌 *AMAT* (13:35 - ChartMill)
-📰 *Chip-Equipment Stocks Keep Beating Earnings—So Why Are Shares Still Falling?*
-🔗 [Ver Notícia](https://finnhub.io/api/news?id=684f253f9af7fad22a382f91cdcedda96a606e161a6d8041b1b05f6bb91fd501)
+📌 *BA* (13:51 - Yahoo)
+📰 *Embraer Flies Into Buy Zone After Earnings. Here's How Boeing, Airbus Compare.*
+🔗 [Ver Notícia](https://finnhub.io/api/news?id=2b7101ee8132eeb587a41875f1655378c769fd257139eb025094f7c274a2a54f)
