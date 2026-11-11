@@ -1,5 +1,5 @@
 ⚡ *RADAR DE CATALISADORES E CONTRATOS* ⚡
 
-📌 *AMAT* (13:55 - Yahoo)
-📰 *Update: US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week*
-🔗 [Ver Notícia](https://finnhub.io/api/news?id=9144a777ff7d510bef7c0f6943333d58c6c22b341eb2d130380b58646214e31e)
+📌 *AMAT* (13:35 - ChartMill)
+📰 *Chip-Equipment Stocks Keep Beating Earnings—So Why Are Shares Still Falling?*
+🔗 [Ver Notícia](https://finnhub.io/api/news?id=684f253f9af7fad22a382f91cdcedda96a606e161a6d8041b1b05f6bb91fd501)
