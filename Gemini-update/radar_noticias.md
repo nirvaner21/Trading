@@ -1,5 +1,5 @@
 ⚡ *RADAR DE CATALISADORES E CONTRATOS* ⚡
 
-📌 *BA* (13:51 - Yahoo)
-📰 *Embraer Flies Into Buy Zone After Earnings. Here's How Boeing, Airbus Compare.*
-🔗 [Ver Notícia](https://finnhub.io/api/news?id=2b7101ee8132eeb587a41875f1655378c769fd257139eb025094f7c274a2a54f)
+📌 *AMAT* (17:47 - Yahoo)
+📰 *3 Tech Dividend Stocks That Could Turn $300,000 Into $4,200 in Annual Income*
+🔗 [Ver Notícia](https://finnhub.io/api/news?id=9343b015407128f02129683abc697ca4526535adad0d7fb8c304543b5a05c4d7)
