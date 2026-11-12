@@ -1,6 +1,6 @@
-📊 *Briefing Pré-Mercado EUA* (11/11/2026)
+📊 *Briefing Pré-Mercado EUA* (12/11/2026)
 
-📈 *VIX Atual:* 18.42 — 🟢 Baixa Volatilidade (Favorável a Tendência)
+📈 *VIX Atual:* 18.28 — 🟢 Baixa Volatilidade (Favorável a Tendência)
 
 📋 *Watchlist Ativa:* 22 ativos monitorizados
 
