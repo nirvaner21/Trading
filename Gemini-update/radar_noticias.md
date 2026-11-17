@@ -1,5 +1,5 @@
 ⚡ *RADAR DE CATALISADORES E CONTRATOS* ⚡
 
-📌 *QUBT* (13:06 - ChartMill)
-📰 *Quantum Stocks Face Earnings Reckoning as Loss-Making Pure Plays Lag Profitable Peers*
-🔗 [Ver Notícia](https://finnhub.io/api/news?id=50302c32618ee885daed406ef5abc4fd90e4a20fac285dff2cb3f8cba02ed43d)
+📌 *BA* (15:52 - Yahoo)
+📰 *SpaceX, Rivals Win $985 Million In Launch Awards. Cathie Wood, David Tepper Shift Space Holdings.*
+🔗 [Ver Notícia](https://finnhub.io/api/news?id=6eba5f1f3ba93c8a9a8f4d0d6127015b402c33d0bae6c36442cd555261322e5f)
