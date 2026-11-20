@@ -1,6 +1,6 @@
-📊 *Briefing Pré-Mercado EUA* (19/11/2026)
+📊 *Briefing Pré-Mercado EUA* (20/11/2026)
 
-📈 *VIX Atual:* 22.31 — 🟡 Alerta Moderado (Cautela nos Breakouts)
+📈 *VIX Atual:* 30.84 — 🔴 Alta Volatilidade (Foco em Reversão / Reduzir Lote)
 
 📋 *Watchlist Ativa:* 22 ativos monitorizados
 
